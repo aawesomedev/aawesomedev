@@ -14,4 +14,3 @@ are a few languages that I have coded for a long, long time.
 
 ### Skills
 
-![VsCode](https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg)
