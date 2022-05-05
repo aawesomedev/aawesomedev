@@ -1,3 +1,5 @@
 ```js
-local aa
+local Aawesome = require('aawesome')
+Aawesome.Send("Cold Coffee")
+Aawesome.Code()
 ```
