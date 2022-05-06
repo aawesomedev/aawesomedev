@@ -14,3 +14,4 @@ are a few languages that I have coded for a long, long time.
 
 ### Skills
 
+too lazy, i'll do it in a bit :D
