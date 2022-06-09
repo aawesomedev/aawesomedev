@@ -9,8 +9,8 @@ Aawesome.Code()
 
 ### Background
 
-I've been coding for many, MANY years in 30+ coding languages. However, while I am a jack of (most) trades, there
-are a few languages that I have coded for a long, long time.
+I've been coding for many, MANY years in 30+ coding languages. However, while I am a jack of (half of them) trades, there
+are a few languages that I am extremely fluent in.
 
 ### Skills
 
