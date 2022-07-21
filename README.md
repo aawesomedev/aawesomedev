@@ -9,9 +9,6 @@ Aawesome.Code()
 
 ### Background
 
-I've been coding for many, MANY years in 30+ coding languages. However, while I am a jack of (half of them) trades, there
-are a few languages that I am extremely fluent in.
+The main programming languages I have spent a lot of time on are **javascript**, **python**, and if html and css count, then that.
 
-### Skills
-
-too lazy, i'll do it in a bit :D
+I've dabbled in C#, Java, Swift, mySQL, and many others, but my strongsuit is definately javascript, and second is python.
